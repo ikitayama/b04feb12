@@ -1,0 +1,147 @@
+Job Information
+
+ JOB ID                    : 9096000
+ JOB NAME                  : job.sh
+ JOB TYPE                  : BATCH
+ JOB MODEL                 : NM
+ RETRY NUM                 : 0
+ SUB JOB NUM               : -
+ USER                      : c74014i
+ GROUP                     : gr180496
+ RESOURCE UNIT             : ito-b
+ RESOURCE GROUP            : ito-g-1-dbg
+ APRIORITY                 : 127
+ PRIORITY                  : 127
+ SHELL                     : /bin/bash
+ SUPPLEMENTARY INFORMATION : 
+ COMMENT                   : 
+ LAST STATE                : RNO
+ STATE                     : EXT
+ PRM DATE                  : 2020/02/17 11:17:11
+ EXIT CODE                 : 0
+ SIGNAL NO                 : 0
+ PJM CODE                  : 0
+ REASON                    : -
+ MAIL SEND FLAG            : ----
+ MAIL ADDRESS              : c74014i
+ STEP DEPENDENCY EXP       : -
+ STEP EXITING WAIT MODE    : -
+ FILE MASK                 : 0022
+ STANDARD OUT FILE         : /home/usr4/c74014i/b04feb12/job.sh.o9096000
+ STANDARD ERR FILE         : /home/usr4/c74014i/b04feb12/job.sh.e9096000
+ INFORMATION FILE          : /home/usr4/c74014i/b04feb12/job.sh.i9096000
+ PJSUB DIRECTORY           : /home/usr4/c74014i/b04feb12
+ FILE SYSTEM NAME          : 
+ APPLICATION NAME          : 
+ ACCEPT DATE               : 2020/02/17 11:16:52
+ QUEUED DATE               : 2020/02/17 11:16:52
+ EXIT DATE                 : 2020/02/17 11:17:12
+ LAST HOLD USER            : 
+ HOLD NUM                  : 0
+ HOLD TIME                 : 00:00:00 (0)
+ JOB START DATE            : 2020/02/17 11:16:58
+ JOB END DATE              : 2020/02/17 11:17:11
+ JOB DELETE DATE (REQUIRE) : -
+ JOB DELETE DATE           : -
+ NODE NUM (REQUIRE)        : -
+ VNODE NUM (ALLOC)         : 1
+ CPU NUM (REQUIRE)         : 9 <DEFAULT>
+ ELAPSE TIME (LIMIT)       : 00:10:00 (600)
+ MEMORY SIZE (LIMIT)       : 86016.0 MiB (90194313216) <DEFAULT>
+ DISK SIZE (LIMIT)         : unlimited <DEFAULT>
+ CPU TIME (LIMIT)          : unlimited <DEFAULT>
+ PROC CPU LIMIT            : unlimited <DEFAULT>
+ PROC COREFILE LIMIT       : 0.0 MB (0) <DEFAULT>
+ PROC CREATE PROC LIMIT    : 2000 <DEFAULT>
+ PROC DATA LIMIT           : unlimited <DEFAULT>
+ PROC LOCKED MEMORY LIMIT  : unlimited <DEFAULT>
+ PROC MESSAGE QUEUE LIMIT  : unlimited <DEFAULT>
+ PROC OPEN FILES LIMIT     : 1048576 <DEFAULT>
+ PROC PENDING SIGNAL LIMIT : unlimited <DEFAULT>
+ PROC PERMFILE LIMIT       : unlimited <DEFAULT>
+ PROC STACK LIMIT          : unlimited <DEFAULT>
+ PROC VIRTUAL MEMORY LIMIT : unlimited <DEFAULT>
+ MEMORY SIZE (ALLOC)       : 86016.0 MiB (90194313216)
+ CPU NUM (ALLOC)           : 9
+ ELAPSE TIME (USE)         : 00:00:13 (13)
+ NODE ID (USE)             : 0x03FF000E 
+ MAX MEMORY SIZE (USE)     : 65.2 MiB (68354048)
+ CPU NUM (USE)             : 9
+ VIRTUAL MEMORY SIZE (USE) : 3391.6 MiB (3556298752)
+ USER CPU TIME (USE)       : 641 ms
+ SYSTEM CPU TIME (USE)     : 370 ms
+ CPU TIME (TOTAL)          : 1011 ms
+ DISK SIZE (USE)           : -
+ I/O SIZE                  : 17.9 MB (17893628)
+ FILE I/O SIZE             : 17.0 MB (16917740)
+ EXEC INST NUM             : 0
+ EXEC SIMD NUM             : 0
+ PRO START DATE            : 2020/02/17 11:16:58
+ PRO END DATE              : 2020/02/17 11:16:58
+ PRO EXIT CODE             : 0
+ EPI START DATE            : 2020/02/17 11:17:11
+ EPI END DATE              : 2020/02/17 11:17:11
+ EPI EXIT CODE             : 0
+ HOST NAME                 : ito-1
+ NODE ID (RANK)            : 0x03FF000E(0) 
+ MPI STATIC PROC (REQUIRE) : 1
+ MPI PROC (REQUIRE)        : 1
+ MPI STATIC PROC (ALLOC)   : 1
+ MPI PROC (ALLOC)          : 1
+ TOTAL JOB PROC            : 85
+ MAX JOB PROC              : 14
+ ASSISTANT CORE (USE)      : -
+ ASSISTANT CORE USER CPU TIME (USE)       : -
+ ASSISTANT CORE SYSTEM CPU TIME (USE)     : -
+ ASSISTANT CORE MAX USER CPU TIME (USE)   : -
+ ASSISTANT CORE MAX SYSTEM CPU TIME (USE) : -
+ AFFECTED NODE ID          : -
+ BACKFILL                  : 1
+ NUMA POLICY               : 0
+ SPECIFIED JOB START DATE  : -
+ START BULKNO              : -
+ END BULKNO                : -
+
+--------------------------------------------------------------------------------
+VNode Information
+
+ VNODE ID                  : 0
+ NODE ID                   : 0x03FF000E
+ MEMORY SIZE (LIMIT)       : 86016.0 MiB (90194313216) <DEFAULT>
+ CPU TIME (LIMIT)          : unlimited <DEFAULT>
+ DISK SIZE (LIMIT)         : unlimited <DEFAULT>
+ MEMORY SIZE (ALLOC)       : 86016.0 MiB (90194313216)
+ CPU NUM (ALLOC)           : 9
+ MAX MEMORY SIZE (USE)     : 65.2 MiB (68354048)
+ VIRTUAL MEMORY SIZE (USE) : 3391.6 MiB (3556298752)
+ CPU NUM (USE)             : 9
+ USER CPU TIME (USE)       : 641 ms
+ SYSTEM CPU TIME (USE)     : 370 ms
+ CPU TIME (TOTAL)          : 1011 ms
+ DISK SIZE (USE)           : -
+ I/O SIZE                  : 17.9 MB (17893628)
+ FILE I/O SIZE             : 17.0 MB (16917740)
+ EXEC INST NUM             : 0
+ EXEC SIMD NUM             : 0
+ PERF COUNT 1              : -
+ PERF COUNT 2              : -
+ PERF COUNT 3              : -
+ PERF COUNT 4              : -
+ PERF COUNT 5              : -
+ PERF COUNT 6              : -
+ PERF COUNT 7              : -
+ PERF COUNT 8              : -
+ PERF COUNT 9              : -
+ MPI STATIC PROC (ALLOC)   : 1
+ MPI PROC (ALLOC)          : 1
+ TOTAL JOB PROC            : 85
+ MAX JOB PROC              : 14
+ ASSISTANT CORE (USE)      : -
+ ASSISTANT CORE USER CPU TIME (USE)       : -
+ ASSISTANT CORE SYSTEM CPU TIME (USE)     : -
+ ASSISTANT CORE MAX USER CPU TIME (USE)   : -
+ ASSISTANT CORE MAX SYSTEM CPU TIME (USE) : -
+ CPU BITMAP (ALLOC)        : 0x1ff
+ CPU BITMAP (USE)          : 0x1ff
+ RANK NO                   : 0
+
